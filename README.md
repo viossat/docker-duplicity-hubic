@@ -2,7 +2,7 @@
 
 Backup files periodically to hubiC with duplicity.
 
-- Alpine-based, 103.1 MB
+- Alpine-based, 111 MB
 - Duplicity: deduplication, encryption, compression
 - Run via crontab
 
